@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Erika Galvis
 
-🌱 I'm taking my small leaps in web development and IT support. 📫
-⚡ I am looking to collaborate on creative social projects.
-✨I am currently learning IT support. ✨🌱
+🌱 I'm taking my small leaps in web development and IT support.
+📫 ⚡ I am looking to collaborate on creative social projects.
+✨ I am currently learning IT support. ✨🌱
 
 
 <!---
